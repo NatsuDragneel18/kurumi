@@ -150,8 +150,7 @@ Chatbot utilizes the CoffeeHouse API and allows Saitama to talk and provides a m
  • `/addchat`*:* Enables Chatbot mode in the chat.
  • `/rmchat`*:* Disables Chatbot mode in the chat.
 
-Reports bugs at @{SUPPORT_CHAT}
-*Powered by CoffeeHouse* (https://coffeehouse.intellivoid.net/) from @Intellivoid
+Reports bugs to [Owner](https://t.me/Natsu_Dragneel_FT)
 """
 
 ADD_CHAT_HANDLER = CommandHandler("addchat", add_chat)
